@@ -1,0 +1,2 @@
+mongodb+srv://aabbass:<password>@searchhotel.kozpa.mongodb.net/springdataDB
+spring.data.mongodb.database=springdataDB
